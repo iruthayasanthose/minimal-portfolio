@@ -51,7 +51,7 @@ There is no any special tasks to setup this project in your local system.
 
 
 ## Usage
-You can simply change the background color & highlight color in the  ![style.css](./assets/style.css) `style.css` file.
+You can simply change the background color & highlight color in the  [style.css](./assets/style.css) `style.css` file.
 
   ``` css
   /* Colors */
