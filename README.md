@@ -50,16 +50,18 @@ There is no any special tasks to setup this project in your local system.
 - That's it!
 
 
-## UsageYou can simply change the background color & highlight color in the  `style.css` file.
+## Usage
+You can simply change the background color & highlight color in the  `style.css` file.
 
-  ```css
+  ``` css
   /* Colors */
-:root {
-  --bg-color: #000;
-  --first-color: #fc4445;
-  --second-color: #3feee6;
-  --footer-bg-color: #282828;
-} ```
+  :root {
+    --bg-color: #000;
+    --first-color: #fc4445;
+    --second-color: #3feee6;
+    --footer-bg-color: #282828;
+  } 
+  ```
 
 
 ## Project Status
